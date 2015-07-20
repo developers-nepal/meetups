@@ -1,4 +1,4 @@
-# meetups
+# Developer Meetups
 Organize and document meetups in Nepal
 
 Meetups
