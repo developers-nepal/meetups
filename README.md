@@ -4,7 +4,8 @@ Organize and document meetups in Nepal
 Meetups
 ---------
 
-* [PHP Developers Meet](php-dev-meet.md)
+* [KTM JS Meetup](ktmjs-meet.md)
+* [PHP Developers Meetup](php-dev-meet.md)
 
 Notes
 ---------
