@@ -5,7 +5,7 @@ Meetup #3 - August 29, 2015
 
 #### Presentations
 
-* [ECMAScript 2015](http://ojhaujjwal.github.io/oauth2-presentation/) by Madhu Rakhal Magar
+* [ECMAScript 2015] by Madhu Rakhal Magar
 * [Building Realtime Apps With Meteor](https://github.com/piyushcoader/chatdemo) by Piyush Thapa
 
 #### Our curated list
