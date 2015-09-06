@@ -5,7 +5,7 @@ Meetup #3 - August 29, 2015
 
 #### Presentations
 
-* ECMAScript 2015 by Madhu Rakhal Magar
+* [ECMAScript 2015](http://slides.com/rakhalmadhu/ecmascript2015-es6-1) by Madhu Rakhal Magar
 * [Building Realtime Apps With Meteor](https://github.com/piyushcoader/chatdemo) by Piyush Thapa
 
 #### Our curated list
@@ -23,4 +23,5 @@ Meetup #3 - August 29, 2015
 * [Learn Meteor](https://www.meteor.com/learn)
 * [Made With Meteor](http://madewith.meteor.com/)
 * [Meteor-Learning](https://github.com/ericdouglas/Meteor-Learning)
+* [Meteor Cheatsheet](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
 * [Why Meteor](http://www.meteorpedia.com/read/Why_Meteor)
